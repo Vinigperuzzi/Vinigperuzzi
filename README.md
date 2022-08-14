@@ -2,7 +2,7 @@
 
 - 🖥️ I'm currently working on my graduation on UFPel
 - 🤖 I’m currently learning the basics of programing on college, and other interesting stuff on my on!
-- 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br
+- 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
                       On personal e-mail: vinigperuzzi@hotmail.com
 - 🏎️ Fun fact: I love to drive... Anywhere... As long as it is fast.
 

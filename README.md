@@ -32,11 +32,11 @@
   ##
   
   <div align="center"> 
-  <a href="mailto:vinigperuzzi@hotmail.com?" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href = "mailto:vgperuzzi@inf.ufpel.edu.br?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/vinigperuzzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinícius-garcia-peruzzi-b69a16248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/Vinigperuzzi" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="mailto:vinigperuzzi@hotmail.com?" target='_blank'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target='_blank'></a>
+<a href = "mailto:vgperuzzi@inf.ufpel.edu.br?" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/vinigperuzzi/" target='_blank'><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target='_blank'></a>
+<a href="https://www.linkedin.com/in/vinícius-garcia-peruzzi-b69a16248/" target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target='_blank'></a>
+<a href="https://steamcommunity.com/id/Vinigperuzzi" target='_blank'><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
   ![snake gif](https://github.com/Vinigperuzzi/Vinigperuzzi/blob/output/github-contribution-grid-snake.svg)
     

@@ -4,7 +4,7 @@
 - 🤖 I’m currently learning the basics of programing on college, and other interesting stuff on my on!
 - 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
-- 🏎️ Fun fact: I love to drive... Anywhere... As long as it is fast.
+- 🏎️ Fun fact(about me): I love to drive... Anywhere... As long as it is fast.
 
 <!--<div align="center">
   <a href="https://github.com/Vinigperuzzi">

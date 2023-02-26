@@ -6,17 +6,17 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
 - 🏎️ Fun fact(about me): I love to drive... Anywhere... As long as it is fast.
 
-<!--<div align="center">
+<<div align="center">
   <a href="https://github.com/Vinigperuzzi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&langs_count=7&theme=gotham"/>
-</div>-->
+</div>>
   
-  <div align="center">
+  <!--div align="center">
   <a href="https://github.com/Vinigperuzzi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div-->
   
  <div style="display: inline_block"><br>
  <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

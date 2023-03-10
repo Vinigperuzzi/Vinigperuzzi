@@ -38,7 +38,7 @@
 </div>
   
   ##
-  
+  <div align="center">Links clicáveis, divirta-se!</div>
   <div align="center"> 
   <a href="mailto:vinigperuzzi@hotmail.com?" target='_blank'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href = "mailto:vgperuzzi@inf.ufpel.edu.br?" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>

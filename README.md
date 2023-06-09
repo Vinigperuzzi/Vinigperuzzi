@@ -5,7 +5,7 @@
 - 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
 - 🏎️ Fun fact(about me): I love to drive... Anywhere... As long as it is fast.
-- 🗏 visit my <a href='https://vinigperuzzi.github.io/PersonalPage/' target='_blank'>personal page<\a>
+- 🗏 visit my <a href='https://vinigperuzzi.github.io/PersonalPage/' target='_blank'>personal page
 
 <!--div align="center">
   <a href="https://github.com/Vinigperuzzi">

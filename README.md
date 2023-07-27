@@ -49,7 +49,7 @@
 
 </div>
 
-  <!div align="center">
+  <!--div align="center">
 
   ![snake gif](https://github.com/Vinigperuzzi/Vinigperuzzi/blob/output/github-contribution-grid-snake.svg)
     

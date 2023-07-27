@@ -49,10 +49,8 @@
 
 </div>
 
-<div align="center">
   [![Vinigperuzzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 

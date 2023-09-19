@@ -55,7 +55,7 @@
 
 
   <!--div align="center">
-
+  </div-->
   ![snake gif](https://github.com/Vinigperuzzi/Vinigperuzzi/blob/output/github-contribution-grid-snake.svg)
     
-  </div-->
+  

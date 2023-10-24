@@ -4,7 +4,6 @@
 - 🤖 I’m currently learning lots of tools and frameworks of many languages, and other interesting stuff on my own!
 - 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
-- 🏎️ Fun fact(about me): I love to drive... Anywhere... As long as it is fast.
 - 🌐  Visit my <a href='https://vinigperuzzi.github.io/PersonalPage/' target='_blank'>Personal Page</a>. There's a portfolio there.
 
 <!--div align="center">

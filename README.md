@@ -1,7 +1,7 @@
 ### Hi there! I'm Vinigperuzzi, be welcome to my Github page!!
 
 - 🖥️ I'm currently working on my graduation on UFPel
-- 🤖 I’m currently learning lots of tools and frameworks of many languages, and other interesting stuff on my on!
+- 🤖 I’m currently learning lots of tools and frameworks of many languages, and other interesting stuff on my own!
 - 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
 - 🏎️ Fun fact(about me): I love to drive... Anywhere... As long as it is fast.

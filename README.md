@@ -44,7 +44,7 @@ Happy coding! 🌐💻
   <img align="center" alt="Vini-rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vini-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <!--><img align="center" alt="Vini-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"><-->
+  <!--img align="center" alt="Vini-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"-->
   <img align="center" alt="Vini-godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg">
   
   <!--div>
@@ -53,7 +53,7 @@ Happy coding! 🌐💻
     <img align="center" alt="Vini-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </div-->
   
-  <img align="center" alt="Vini-Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <!--img align="center" alt="Vini-Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"-->
 
  <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 

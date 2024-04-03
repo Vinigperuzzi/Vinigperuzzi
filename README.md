@@ -27,7 +27,7 @@ Feel free to browse, explore and, perhaps, be inspired. Whether you're a curious
 
 Get ready for an exciting journey through my world of lines of code, and if at any point I made you feel inspired, tell me about it, I love talking about technology and expanding my network.
 
-Happy coding! 🌐💻
+Happy coding! 🌐💻🧙‍♂️
 
 ---
 

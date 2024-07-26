@@ -18,6 +18,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&langs_count=7&theme=light"/>
 </div-->
 
+### Proficiency:
+As a developer, my skill set is centered around the powerful Ruby on Rails stack. I am habituated to concepts of Extreme Programming (XP) principles, such as pair programming, test-driven development (TDD), and feature branching.
+I also have some experience using git and github flow used as team.
+
+Besides my courses of ruby on rails on udemy, I'm pround to declare that i participated in class 12 of the program Treinadev at <a href="https://www.campuscode.com.br" target='_blank'>Campus Code</a>.
+
 ### About me:
 Welcome to my universe of codes, where creativity and passion for programming intertwine!
 

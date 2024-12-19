@@ -21,7 +21,7 @@
 ### Proficiency:
 Besides my job in data science using artificial intelligence, I'm a fullstack software developer.
 
-Developing for Desktop, i'm skilled with Python. The most impressive, is my research for the conclusion course work: an environment to debugging parallel programs named <a href='https://vinigperuzzi.github.io/PPP-Debugger/' target='_blank'>PPP</a> (Plush Puppy Parallel Debugger). Experiment by youeself!
+Developing for Desktop, i'm skilled with Python. The most impressive project, is my research for the conclusion course work: an environment to debugging parallel programs named <a href='https://vinigperuzzi.github.io/PPP-Debugger/' target='_blank'>PPP</a> (Plush Puppy Parallel Debugger). Experiment by youeself!
 
 I'm pround to declare that i participated in class 12 of the program Treinadev at <a href="https://www.campuscode.com.br" target='_blank'>Campus Code</a>, where i learned all the hard and soft skill to become a fullstack web developer. Concepts such as TDD, pair programming, branch feature, docker, git and github flow and the powerfull stack of Ruby on Rails.
 

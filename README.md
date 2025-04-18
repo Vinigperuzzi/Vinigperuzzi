@@ -1,6 +1,6 @@
 ### Hi there! I'm Vinigperuzzi, be welcome to my Github page!!
 
-- 🤖 Data Scientist at <a href="https://www.kognit.com.br" target='_blank'>Kognit</a> - Are you read to make change?
+- 🤖 Data Scientist (AI Cell) at <a href="https://www.kognit.com.br" target='_blank'>Kognit</a> - Are you read to make change?
 - 🖥️ I'm gratuate in Computer Science at UFPel
 - 🧑🏻‍🎓 Currently studying for a master's degree in computer science
 - 🤓 Passionate about games, playing and making them

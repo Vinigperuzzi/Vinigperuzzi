@@ -1,7 +1,9 @@
 ### Hi there! I'm Vinigperuzzi, be welcome to my Github page!!
 
-- 🖥️ I'm gratuate in Computer Science at UFPel
 - 🤖 Data Scientist at <a href="https://www.kognit.com.br" target='_blank'>Kognit</a> - Are you read to make change?
+- 🖥️ I'm gratuate in Computer Science at UFPel
+- 🧑🏻‍🎓 Currently studying for a master's degree in computer science
+- 🤓 Passionate about games, playing and making them
 - 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
 - 🌐  Visit my <a href='https://vinigperuzzi.github.io/PersonalPage/' target='_blank'>Personal Page</a>. There's a portfolio there.
@@ -19,22 +21,22 @@
 </div-->
 
 ### Proficiency:
-Besides my job in data science using artificial intelligence, I'm a fullstack software developer.
+Besides my job in data science using artificial intelligence, I'm a backend software developer (can handle myself in some frontend, even not so goodly).
 
 Developing for Desktop, i'm skilled with Python. The most impressive project, is my research for the conclusion course work: an environment to debugging parallel programs named <a href='https://vinigperuzzi.github.io/PPP-Debugger/' target='_blank'>PPP</a> (Plush Puppy Parallel Debugger). Experiment by yourself!
 
 I'm pround to declare that i participated in class 12 of the program Treinadev at <a href="https://www.campuscode.com.br" target='_blank'>Campus Code</a>, where i learned all the hard and soft skill to become a fullstack web developer. Concepts such as TDD, pair programming, branch feature, docker, git and github flow and the powerfull stack of Ruby on Rails.
 
-Today, i used to develop mostly using NestJS for backend and NextJS for frontend.
+Today, i used to develop mostly using FastAPI for backend (solid) and NextJS for frontend (learning in the free time).
 
 I have solid knowledge in HPC programming, parallelism, concurrency, concepts of operational systems and algorithm and data structures, being monitor for one and a half year of these last two disciplines.
 
-I love do develop games just for fun and for myself. Learning how to draw textures and pixel art, modeling 3d and developing games in general.
+I love to develop games just for fun and for myself. Learning how to draw textures and pixel art, modeling 3d and developing games in general.
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vini-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg">
-  <img align="center" alt="Vini-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg">
+  <img align="center" alt="Vini-fastapi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Vini-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">

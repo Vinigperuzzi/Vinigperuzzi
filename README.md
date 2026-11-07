@@ -1,6 +1,6 @@
 ### Hi there! I'm Vinigperuzzi, be welcome to my Github page!!
 
-- 🤖 Data Scientist (AI Cell) at <a href="https://www.kognit.com.br" target='_blank'>Kognit</a> - Are you read to make change?
+- 🤖 Data Scientist & AI enginner (AI Cell) at <a href="https://[www.kognit.com.br](https://ioxcloud.com.br)" target='_blank'>IOX Cloud</a>
 - 🖥️ I'm gratuate in Computer Science at UFPel
 - 🧑🏻‍🎓 Currently studying for a master's degree in computer science
 - 🤓 Passionate about games, playing and making them
@@ -21,7 +21,7 @@
 </div-->
 
 ### Proficiency:
-Besides my job in data science using artificial intelligence, I'm a backend software developer (can handle myself in some frontend, even not so goodly).
+Besides my job in data science using artificial intelligence, I'm a backend software developer.
 
 Developing for Desktop, i'm skilled with Python. The most impressive project, is my research for the conclusion course work: an environment to debugging parallel programs named <a href='https://vinigperuzzi.github.io/PPP-Debugger/' target='_blank'>PPP</a> (Plush Puppy Parallel Debugger). Experiment by yourself!
 
